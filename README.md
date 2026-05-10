@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 Sistema de Triage Asistido por IA
 ## Para Zonas de Alto Riesgo Sanitario en Colombia
 
