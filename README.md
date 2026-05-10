@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Sistema de Triage Asistido por IA
 ## Para Zonas de Alto Riesgo Sanitario en Colombia
 
@@ -291,3 +292,6 @@ Proyecto desarrollado para el curso de PTIA - Proyecto Final
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+=======
+# MedAI_Backend
+>>>>>>> 9e3eb6eb42c1959bddafb727bf5957fce9736ee4
